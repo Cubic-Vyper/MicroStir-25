@@ -27,6 +27,10 @@ https://www.amazon.com/Magnetic-Stirrer-Mixer-Laboratory-Magnet/dp/B08P3JKLSJ/re
 USB Type C 3.7V Lithium Battery Charger Board
 https://www.amazon.com/dp/B0BRXYZTWN/?coliid=I4KSRTECPX4EJ&colid=218QYAP3YN5LA&ref_=list_c_wl_gv_ov_lig_pi_dp&th=1
 
+M3 x 20mm Bolts
+https://www.amazon.com/BNUOK-120pcs-Socket-Threads-Spanner/dp/B0DJQG98K7/ref=sr_1_1_sspa?crid=3TABQPTGZM9OK&dib=eyJ2IjoiMSJ9.J75f_-54quG1G26hP04duLEqCgtVRP_Yx2_qX3cvhco30VUJxRr8g3H04JPpinQZR-_hAfvz5oogYfxS6D_btPAyYCu3ndmKFhe5ne1rJpPCh95_ZrlzY5jgawR4pEopUFpo90vm8tMVAhv1iOTdGNqv-NXCb79tehGF2qIMWMmbV24XUmmW7z8OdD5LW9Vl1Umf8mhTSsNGeY_AGwrBpjPaLmOE_UVNRjtXCGZwQyE.fOL4W_ChJyL_1CXG63BR3gyf9KY7RWKw0lz4PGKt4gg&dib_tag=se&keywords=m3%2Bby%2B20mm&qid=1773083175&sprefix=m3%2Bby%2B20mm%2Caps%2C207&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+
 
 
 
