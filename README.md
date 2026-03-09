@@ -35,6 +35,10 @@ https://www.amazon.com/Magnetic-Stirrer-Mixer-Laboratory-Magnet/dp/B08P3JKLSJ/re
 
 <img width="680" height="498" alt="image" src="https://github.com/user-attachments/assets/f39ba4b1-f75c-42c8-9cc9-1b7b26abb090" />
 
+<img width="618" height="623" alt="image" src="https://github.com/user-attachments/assets/d866a53a-6007-40c9-838d-1e0c22523856" />
+
+
+
 1. add all components and solder/wire them
 2. insert all the magnets into their slots
 3. screw the top on
