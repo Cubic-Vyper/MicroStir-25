@@ -24,6 +24,9 @@ https://www.alibaba.com/product-detail/Lipo-Li-ion-Battery-523450-1000mah_160085
 PTFE Magnetic Stirrer Bar 4 pack  
 https://www.amazon.com/Magnetic-Stirrer-Mixer-Laboratory-Magnet/dp/B08P3JKLSJ/ref=sr_1_1_sspa?crid=1LBHK5IJMW2Y9&dib=eyJ2IjoiMSJ9.-71C9oSe1O1tZ5qANFakL6g4JP8IG23nJsIE8Qg1pflekBBXZuh6656wPGSkMhYcJKfSSjS56xpU_eXX6yI_C-TmByjeefa8qUCI4kW17l7xWNVSU24Zy7DQMg1UlgiRD9TXudj8Snnwg3wopqZYpZsvrrxCsLox-o9qLHTIKCne_nlGQwj83N-oHGXQhjteqWRYkUkTNNY8v6oMdfY4fuWM39UzbBOxe-eyKepMut4.zpbmW-hP0RKCnraoSlaGftAsa7x1H9ASj0YQSuFzTB0&dib_tag=se&keywords=magnetic%2Bstirrer%2Bbar&qid=1772769773&sprefix=magnetic%2Bstirrer%2Bbar%2Caps%2C311&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
+USB Type C 3.7V Lithium Battery Charger Board
+https://www.amazon.com/dp/B0BRXYZTWN/?coliid=I4KSRTECPX4EJ&colid=218QYAP3YN5LA&ref_=list_c_wl_gv_ov_lig_pi_dp&th=1
+
 
 
 
