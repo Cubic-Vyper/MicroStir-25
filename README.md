@@ -3,7 +3,8 @@ A compact portable magnetic stirrer. My goal is to make this only 25mm thick
 
 Bill Of Materials
 
-<img width="871" height="387" alt="image" src="https://github.com/user-attachments/assets/a0743df1-4d76-4350-8561-b1bcf8f874cb" />
+<img width="865" height="384" alt="image" src="https://github.com/user-attachments/assets/3bf06b00-cbe8-4152-9989-d261b1e49261" />
+
 
 
 
@@ -18,7 +19,7 @@ R300C DC Motor
 https://www.alibaba.com/product-detail/R300C-Miniature-DC-Motor-Motor-with_1601109954336.html?spm=a2700.prosearch.normal_offer.d_image.777467af5wkcWB&selectedCarrierCode=SEMI_MANAGED_STANDARD%40%40STANDARD&priceId=78d60c43997e4ed7b2ae10d049afa617
 
 523450 Li-Ion Battery 3.7V 1000mAh
-https://www.alibaba.com/product-detail/Ufine-Cell-Factory-OEM-ODM-Wholesale_1600803088245.html?spm=a2700.prosearch.normal_offer.d_image.32d267af1f4mG2&priceId=6c8b4916d788447e98b60d0cc014c23b
+https://www.alibaba.com/product-detail/Lipo-Li-ion-Battery-523450-1000mah_1600859067252.html?spm=a2700.prosearch.normal_offer.d_image.7aca67afmc6Lyv&priceId=ee2d4da9a4324cde96c7f98d27d452b5
 
 PTFE Magnetic Stirrer Bar 4 pack  
 https://www.amazon.com/Magnetic-Stirrer-Mixer-Laboratory-Magnet/dp/B08P3JKLSJ/ref=sr_1_1_sspa?crid=1LBHK5IJMW2Y9&dib=eyJ2IjoiMSJ9.-71C9oSe1O1tZ5qANFakL6g4JP8IG23nJsIE8Qg1pflekBBXZuh6656wPGSkMhYcJKfSSjS56xpU_eXX6yI_C-TmByjeefa8qUCI4kW17l7xWNVSU24Zy7DQMg1UlgiRD9TXudj8Snnwg3wopqZYpZsvrrxCsLox-o9qLHTIKCne_nlGQwj83N-oHGXQhjteqWRYkUkTNNY8v6oMdfY4fuWM39UzbBOxe-eyKepMut4.zpbmW-hP0RKCnraoSlaGftAsa7x1H9ASj0YQSuFzTB0&dib_tag=se&keywords=magnetic%2Bstirrer%2Bbar&qid=1772769773&sprefix=magnetic%2Bstirrer%2Bbar%2Caps%2C311&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
