@@ -1,6 +1,8 @@
 # MicroStir-25
 A compact portable magnetic stirrer. My goal is to make this only 25mm thick
 
+I'm making this because I mix koolaid (powder) all the time and it takes a wihle with a spoon. Then I saw a heated magnetic stirrer in a video and decied it would be a fun challenge to design my own.
+
 Bill Of Materials
 
 <img width="865" height="384" alt="image" src="https://github.com/user-attachments/assets/3bf06b00-cbe8-4152-9989-d261b1e49261" />
