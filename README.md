@@ -25,6 +25,9 @@ Bill Of Materials
 |3D printed case | This will hold everything | $0.00 | 1 | $0.00 | there isn't a link | I will print this |
 
 
+here is it sliced(the universal cura project is in the CAD folder):
+
+<img width="1599" height="786" alt="image" src="https://github.com/user-attachments/assets/7038d6bd-c3bd-480a-b099-f4e4e9124517" />
 
 
 
