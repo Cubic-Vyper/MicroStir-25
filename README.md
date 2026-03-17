@@ -5,7 +5,6 @@ I'm making this because I mix koolaid (powder) all the time and it takes a wihle
 
 Bill Of Materials
 
-<img width="865" height="384" alt="image" src="https://github.com/user-attachments/assets/3bf06b00-cbe8-4152-9989-d261b1e49261" />
 
 
 
