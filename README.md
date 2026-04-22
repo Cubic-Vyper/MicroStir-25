@@ -3,6 +3,10 @@ A compact portable magnetic stirrer. My goal is to make this only 25mm thick
 
 I'm making this because I mix koolaid (powder) all the time and it takes a wihle with a spoon. Then I saw a heated magnetic stirrer in a video and decied it would be a fun challenge to design my own.
 
+Stasis page:https://stasis.hackclub.com/dashboard/projects/cmmedtet6003m01mbhjvw3xku
+
+Demo video:https://youtu.be/0Q4hC4u_k5A
+
 Bill Of Materials
 
 
@@ -42,10 +46,78 @@ here is it sliced(the universal cura project is in the CAD folder - UCP_Microsti
 
 <img width="618" height="623" alt="image" src="https://github.com/user-attachments/assets/d866a53a-6007-40c9-838d-1e0c22523856" />
 
+------------------
+
+when printing stop at this poitn to add magnets
+
+<img width="921" height="579" alt="image" src="https://github.com/user-attachments/assets/8ef38ff2-6be5-45b0-b44f-0684029424cb" />
+
+and here
 
 
-1. add all components and solder/wire them
-2. insert all the magnets into their slots
-3. screw the top on
-4. enjoy
+<img width="656" height="544" alt="image" src="https://github.com/user-attachments/assets/8a19d365-eb57-45f3-a8f7-f49132db7ee1" />
+
+
+------------------
+
+1. solder the battery to the charger and some wires for conecting
+
+  <img width="372" height="260" alt="image" src="https://github.com/user-attachments/assets/844da230-2bca-476d-b4c1-fc27f387b786" />
+
+
+2. make sure you have all the parts
+
+<img width="975" height="592" alt="image" src="https://github.com/user-attachments/assets/37c7e02c-03df-431b-b86e-fd01728e856e" />
+
+4 M3 x 20mm Bolts
+
+4 M3 Nuts
+
+3 8mm x 2.8mm disk magnets
+
+2 15mm x 3mm disk magnets
+
+PWM speed controller
+
+R300C DC Motor
+
+523450 Li-Ion Battery 3.7V 1000mAh
+
+USB Type C 3.7V Lithium Battery Charger
+
+PTFE Magnetic Stirrer Bar (30mm x 8mm)
+
+3D printed parts (4 parts)
+
+
+
+3. insert all components and magnets into their slots with hotglue (anything works) or tape (for battery), make sure all the magnets face the right way, the magnets should atract the knob and stirer bar
+
+<img width="745" height="642" alt="image" src="https://github.com/user-attachments/assets/8900606b-e41e-46fb-aabb-fe9ce01dc20b" />
+
+4. insert the nuts into the lid
+
+<img width="528" height="478" alt="image" src="https://github.com/user-attachments/assets/712521f8-d229-4186-8eb8-3fe6a001e8c4" />
+
+   
+5. screw the top on
+
+
+<img width="723" height="673" alt="image" src="https://github.com/user-attachments/assets/368e2364-973b-4463-b52c-bb69d5762ba4" />
+
+
+
+6. add the bar and knob to their slots
+
+
+<img width="921" height="529" alt="image" src="https://github.com/user-attachments/assets/e5ff065a-2717-4354-89bc-a02abea0963d" />
+
+
+
+7. enjoy
+
+
+<img width="484" height="519" alt="image" src="https://github.com/user-attachments/assets/a7a5ed4a-4fc6-461b-a0e9-0292367a47ae" />
+
+
 
