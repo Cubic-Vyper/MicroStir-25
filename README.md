@@ -37,9 +37,11 @@ here is it sliced(the universal cura project is in the CAD folder - UCP_Microsti
 
 
 
+<img width="1600" height="542" alt="Microstir Render V2" src="https://github.com/user-attachments/assets/adff9f1a-ec46-4557-b260-4c5fd7c61a11" />
+<img width="933" height="600" alt="Screenshot" src="https://github.com/user-attachments/assets/7a007f05-9b5a-4814-81cd-0288b08219f0" />
 
 
-<img width="648" height="461" alt="image" src="https://github.com/user-attachments/assets/3bbd543d-9bd3-452e-945d-ba94e8ad71c2" />
+
 
 
 <img width="680" height="498" alt="image" src="https://github.com/user-attachments/assets/f39ba4b1-f75c-42c8-9cc9-1b7b26abb090" />
