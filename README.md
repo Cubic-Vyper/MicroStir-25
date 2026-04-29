@@ -3,7 +3,7 @@ A compact portable magnetic stirrer. My goal is to make this only 25mm thick
 
 I'm making this because I mix koolaid (powder) all the time and it takes a wihle with a spoon. Then I saw a heated magnetic stirrer in a video and decied it would be a fun challenge to design my own.
 
-Stasis Page PDF (cuz you would need an account to view the page): [https://stasis.hackclub.com/dashboard/projects/cmmedtet6003m01mbhjvw3xku](https://github.com/Cubic-Vyper/MicroStir-25/blob/37a55c136eb3accf6f57d3dfe9cd8c5b62a1e2e2/Stasis_ProjectPage-MicroStir.pdf)
+Stasis Page PDF (cuz you would need an account to view the page):[https://stasis.hackclub.com/dashboard/projects/cmmedtet6003m01mbhjvw3xku](https://github.com/Cubic-Vyper/MicroStir-25/blob/37a55c136eb3accf6f57d3dfe9cd8c5b62a1e2e2/Stasis_ProjectPage-MicroStir.pdf)
 
 Demo video:https://youtu.be/0Q4hC4u_k5A
 
